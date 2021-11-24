@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Aashima Ahuja. I am a Frontend engineer and Content creator. I am from india, living in Amsterdam and working at Miro.
+My name is Stephen Prakash. I am a Full Stack Developer and Coder. I am from india, living in Bangalore and working at Actyv.
 
 ## &#x270d; Content Creation and Vlogging
 
-Apart from coding , I also make technical videos. You can check the out on LinkedIn
+Apart from coding , I also contribute on open source project and own products. You can check the out on LinkedIn
 
 ## 🔧 Langueages & Tools
 <p align='left'>
