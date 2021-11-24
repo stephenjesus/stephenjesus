@@ -41,15 +41,7 @@ Apart from coding , I also contribute on open source project and own products. Y
 <a href="https://github.com/stephenjesus/stephenjesus">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenjesus&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
 </a>
-<a href="https://github.com/stephenjesus/stephenjesus">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenjesus&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/stephenjesus/stephenjesus">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenjesus&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/stephenjesus/stephenjesus">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenjesus&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
